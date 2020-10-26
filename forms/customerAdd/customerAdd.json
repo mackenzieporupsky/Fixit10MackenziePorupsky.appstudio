@@ -36,6 +36,15 @@
         "Elements",
         "btnNext3.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerAdd",
+        "Elements",
+        "txtCurrent.json"
+      ]
     }
   ],
   "class": "",

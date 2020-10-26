@@ -27,6 +27,24 @@
         "Elements",
         "drpUpdate.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "txtUpdated.json"
+      ]
     }
   ],
   "class": "",

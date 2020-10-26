@@ -27,7 +27,7 @@ btnAdd.onclick = function() {
   let customersAdd = ""
   for (i = 0; i <= results.length - 1; i++)
     customersAdd = customersAdd + results[i] + "\n"
-  txtAdd.value = customersAdd
+  txtCurrent.value = customersAdd
 }
 btnNext3.onclick=function(){
   ChangeForm(customerUpdate)
