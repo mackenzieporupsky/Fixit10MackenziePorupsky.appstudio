@@ -14,27 +14,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerUpdate",
         "Elements",
-        "txtSelect.json"
+        "txtUpdate.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerUpdate",
         "Elements",
-        "drpSelect.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerSelect",
-        "Elements",
-        "btnNext.json"
+        "drpUpdate.json"
       ]
     }
   ],
@@ -44,7 +35,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerSelect",
+  "id": "customerUpdate",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

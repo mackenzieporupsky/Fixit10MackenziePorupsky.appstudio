@@ -14,27 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerDelete",
         "Elements",
-        "txtSelect.json"
+        "txtDelete.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerDelete",
         "Elements",
-        "drpSelect.json"
+        "drpDelete.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerDelete",
         "Elements",
-        "btnNext.json"
+        "btnNext2.json"
       ]
     }
   ],
@@ -44,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerSelect",
+  "id": "customerDelete",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

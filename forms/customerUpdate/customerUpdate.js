@@ -1,3 +1,4 @@
+/*
 let req = ""
 let query = ""
 let results = ""
@@ -11,7 +12,7 @@ customerSelect.onshow=function() {
   
   if (req.status == 200) { 
     customerSelect = JSON.parse(req.responseText)
-    console.log(customerSelect)
+    console.log(drpSelect)
   }
   
   if (customerSelect.length == 0) { 
@@ -50,6 +51,4 @@ customerSelect.onshow=function() {
           txtSelect.value=userMessage
       }
   }
-btnNext.onclick=function(){
-  ChangeForm(customerDelete)
-}
+*/
